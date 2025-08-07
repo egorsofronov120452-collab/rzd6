@@ -8,7 +8,6 @@ def index():
 
 if __name__ == '__main__':
     app.run(debug=True)
-Сохраните вышеуказанный код в файле app.py. Теперь создадим файл index.html в папке templates.
 
 HTML (templates/index.html)
 <!DOCTYPE html>
